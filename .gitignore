@@ -1,0 +1,14 @@
+# Python junk
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local data or vector dumps
+*.npy
+*.sqlite
+
+# Private notes & personal learning documents
+UNDERSTANDING.md
+understanding.md
+*.notes.md
